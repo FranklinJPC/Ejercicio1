@@ -6,7 +6,7 @@ public class Main
 
         Jugador player_1 = new Jugador();
         player_1.setVida(100);
-        player_1.setClase("Chamamn");
+        player_1.setClase("DK");
         player_1.setNickname("Melly");
         player_1.setMana(75);
         player_1.setMensaje("Wenas Gente");
