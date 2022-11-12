@@ -15,7 +15,7 @@ public class Main
         Jugador player_2 = new Jugador();
         player_2.setVida(75);
         player_2.setClase("Sacerdote");
-        player_2.setNickname("Ralsey");
+        player_2.setNickname("Jairo");
         player_2.setMana(200);
         player_2.setMensaje("For the light!!");
         player_2.setObjeto("Baston sagrado");
